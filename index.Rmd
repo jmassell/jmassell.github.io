@@ -1,0 +1,31 @@
+---
+title: "Hello."
+site: distill::distill_website
+---
+
+
+<div style="text-align: center; padding-top: 2em;">
+
+
+```{r, echo=FALSE, out.width = "30%"}
+knitr::include_graphics("images/greenbear.png")
+
+```
+
+Hi!
+
+My name is Johannes and I am a PhD candidate in the department of [Clinical Psychology and Epidemiology](https://psychologie.unibas.ch/en/faculty/centers/clinical-psychology-and-epidemiology/), and an [IT admin](https://psychologie.unibas.ch/de/fakultaet/it/), both at the [Faculty of Psychology](https://psychologie.unibas.ch/de/) at the [University of Basel](https://www.unibas.ch/en.html). In my research i combine the two by leveraging technology (machine learning, natural language processing, virtual reality, psychophysiology) to understand and improve mental health.
+
+
+</div> 
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```

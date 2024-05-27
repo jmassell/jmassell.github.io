@@ -1,0 +1,19 @@
+---
+title: "VC"
+description: |
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+<div style="text-align: center; padding-top: 2em;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mI4Wu0Hx3Vc?si=Iuf9qaKdFKkAtE4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div> 

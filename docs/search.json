@@ -1,0 +1,59 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-27T15:49:27+02:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-27T15:49:42+02:00"
+    },
+    {
+      "path": "cv.html",
+      "title": "CV",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-27T15:50:28+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hello.",
+      "author": [],
+      "contents": "\n\n\n\n\nHi!\nMy name is Johannes and I am a PhD candidate in the department of Clinical Psychology and Epidemiology, and an IT admin, both at the Faculty of Psychology at the University of Basel. In my research i combine the two by leveraging technology (machine learning, natural language processing, virtual reality, psychophysiology) to understand and improve mental health.\n\n\n\n\n\n\n",
+      "last_modified": "2024-05-27T15:57:37+02:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-27T15:50:09+02:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-27T15:49:53+02:00"
+    },
+    {
+      "path": "vc.html",
+      "title": "VC",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2024-05-27T16:19:12+02:00"
+    }
+  ],
+  "collections": []
+}

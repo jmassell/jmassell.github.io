@@ -1,0 +1,31 @@
+name: "Website_Prototype"
+title: "Johannes Massell"
+theme: theme.css
+description: |
+  Johannes Massell
+output_dir: "docs"
+navbar:
+  logo:
+    image: images/greenbear.png
+    href: index.html
+  right:
+    - text: "HOME"
+      href: index.html
+    - text: "PUBLICATIONS"
+      href: publications.html
+    - text: "TEACHING"
+      href: teaching.html
+    - text: "CV"
+      href: cv.html
+
+    - icon: ai ai-orcid fa-lg
+      href: http://orcid.org/0000-0002-6565-2590
+    - icon: ai ai-osf fa-lg
+      href: https://osf.io/pd5sb/
+    - icon: ai fa-github fa-lg
+      href: https://github.com/jmassell
+    - icon: fa fa-envelope
+      href: contact.html
+    - icon: ai ai-closed-access
+      href: vc.html
+output: distill::distill_article
