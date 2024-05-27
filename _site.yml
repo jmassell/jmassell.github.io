@@ -24,7 +24,7 @@ navbar:
     - icon: ai fa-github fa-lg
       href: https://github.com/jmassell
     - icon: fa fa-envelope
-      href: contact.html
+      href: mailto:johannes.massell@unibas.ch
     - icon: ai ai-closed-access
       href: vc.html
 output: distill::distill_article
