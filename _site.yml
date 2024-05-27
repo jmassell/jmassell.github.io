@@ -9,8 +9,7 @@ navbar:
     image: images/greenbear.png
     href: index.html
   right:
-    - text: "HOME"
-      href: index.html
+
     - text: "PUBLICATIONS"
       href: publications.html
     - text: "TEACHING"
